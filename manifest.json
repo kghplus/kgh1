@@ -1,12 +1,13 @@
 {
+  "id": "KGH-v1",
   "name": "KGH",
   "short_name": "KGH",
-  "version": "1.1.1",
-  "start_url": "/",
-  "display": "minimal-ui",
+  "start_url": "/", 
+  "scope": "/999",
+  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
-  "description": "KGH Plus",
+  "description": "KGH Plus Application",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkIgwZ5UGNNwTVOc_yTN3DzYREU9lkFbw8kVNxWh5tdw6LG_IP3k1KWM5pgY9CSRNGyTJZtt0maqE1wz5rK81JrMIbzmMrHYO7LOXQQS4amaA5_pc_PrV9zqt4NxUiX2LDTgqeIUdtHCdFfTGaWCzjNyBPXBs_lcYi_ZuXUjj5ejlYiU1Q3GLYt0CimOj/s1600/750_750.png",
@@ -18,7 +19,7 @@
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkIgwZ5UGNNwTVOc_yTN3DzYREU9lkFbw8kVNxWh5tdw6LG_IP3k1KWM5pgY9CSRNGyTJZtt0maqE1wz5rK81JrMIbzmMrHYO7LOXQQS4amaA5_pc_PrV9zqt4NxUiX2LDTgqeIUdtHCdFfTGaWCzjNyBPXBs_lcYi_ZuXUjj5ejlYiU1Q3GLYt0CimOj/s1600/750_750.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "maskable"
     }
   ]
 }

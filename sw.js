@@ -1,8 +1,8 @@
 const CACHE_NAME = 'kgh-plus-v1.1.9' + new Date().getTime(); // បង្កើត Version ថ្មីតាមពេលវេលា
 const assets = [
-  'https://kghplus.blogspot.com/2026/04/blog-post.html',
-  '.https://cdn.jsdelivr.net/gh/kghplus/KGH1/manifest.json',
-  '.https://cdn.jsdelivr.net/gh/kghplus/KGH1/sw.js'
+  '/',
+  'https://cdn.jsdelivr.net/gh/kghplus/KGH1/manifest.json',
+  'https://cdn.jsdelivr.net/gh/kghplus/KGH1/sw.js'
 ];
 
 // ១. ដំឡើង និងបង្ខំឱ្យដើរភ្លាម (Skip Waiting)
